@@ -1,8 +1,8 @@
 <h1>
-<a href="https://www.dtapp.net/">Golang caiyunapp</a>
+<a href="https://www.dtapp.net/">Golang</a>
 </h1>
 
-📦 Golang caiyunapp
+📦 Golang 彩云天气
 
 [comment]: <> (go)
 [![godoc](https://pkg.go.dev/badge/go.dtapp.net/caiyunapp?status.svg)](https://pkg.go.dev/go.dtapp.net/caiyunapp)
@@ -13,5 +13,5 @@
 #### 安装
 
 ```shell
-go get -v -u go.dtapp.net/caiyunapp@v1.0.0
+go get -v -u go.dtapp.net/caiyunapp@v1.0.1
 ```
